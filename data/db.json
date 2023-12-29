@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "datetime": "July 01, 2023 11:17:36",
+      "body": "Made a video about Tesla Q1 results"
+    },
+    {
+      "id": 2,
+      "title": "My 2nd Post",
+      "datetime": "December 28, 2023 7:30:10 PM",
+      "body": "I attended a Defi block chain event  vthe mark antony and the team kill the all rowdy."
+    },
+    {
+      "id": 3,
+      "title": "My 3rd Post",
+      "datetime": "July 01, 2023 11:17:36",
+      "body": "Web3 global summit next week"
+    },
+    {
+      "id": 4,
+      "title": "My edit post",
+      "datetime": "December 28, 2023 7:32:52 PM",
+      "body": "ETH will outperform BTC and BMW"
+    },
+    {
+      "id": 5,
+      "title": "Congrats you complete full Course",
+      "datetime": "December 29, 2023 6:56:46 PM",
+      "body": "Do it again"
+    }
+  ]
+}
